@@ -1,0 +1,5 @@
+*.rar
+*.pptx
+codes/models/model1/model1.ckpt.*
+codes/models/model2/model2.ckpt.*
+codes/data/*.tar
